@@ -18,7 +18,7 @@ Required information of new user:
 
 Go to [Users page](https://core.sv3.io/admin/users) of your instance.
 
-1. Click on New User. Alternatively, click [here] if you're working in Core(https://core.sv3.io/admin/users/new).
+1. Click on New User. Alternatively, click [here](https://core.sv3.io/admin/users/new) if you're working in Core.
 2. Enter in the information of the user.
 3. For username, use their email as well.
 4. For password, use an 8 character long password with a number. *Ex:* Password1
